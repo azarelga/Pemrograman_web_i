@@ -1,4 +1,3 @@
-// Fungsi untuk menghitung hasil perhitungan
 function calculate(operator) {
   let firstNumber = parseFloat(document.getElementById("firstNumber").value);
   let secondNumber = parseFloat(document.getElementById("secondNumber").value);
@@ -33,7 +32,6 @@ function calculate(operator) {
   result.innerHTML = calc;
 }
 
-//event listener
 document.getElementById("add").addEventListener("click", function () {
   calculate("+");
 });
