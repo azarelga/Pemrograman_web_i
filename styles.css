@@ -1,0 +1,30 @@
+ .promoBar {
+  padding-bottom: 20px;
+  padding-top: 20px; 
+  
+   background-color: rgb(11, 104, 233);
+   color: aliceblue;
+  }
+
+ .logo-divider{
+  margin-left: 30px;
+ }
+
+ .breadcrumb-font{
+  font-size: small;
+ }
+
+ .fa-promo {
+   color: white;
+   width: 20px;
+   filter: brightness(50);
+   height: 20px;
+   gap: 5rem;
+ }
+
+ .custom-container {
+   background-color: whitesmoke;
+   display: flexbox;
+   justify-content: center;
+   text-align: left;
+ }
