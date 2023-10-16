@@ -1,0 +1,42 @@
+h1 {
+    font-family: 'Oswald', sans-serif;
+}
+
+.footer {
+    padding-bottom: 10px;
+}
+
+div {
+    padding-bottom: 25px;
+}
+
+.image {
+    padding: 5px;
+    border-radius: 25px
+}
+
+h3 {
+    color: #fff;
+    font-family: 'Oswald', sans-serif;
+    padding: 20px
+}
+p {
+    color: #fff;
+    line-height: normal;
+}
+
+.description {
+    margin-left: 30%;
+    margin-right: 30%;
+    text-align: justify;
+}
+
+body {
+    background-color: #3b444b;
+    color: #39ff14;
+    font-size: 16px;
+    font-family: "Nunito Sans", sans-serif;
+    font-weight: 400;
+    line-height: 12px;
+    padding: 20px;
+}
