@@ -8,18 +8,18 @@ To access assignments for the upcoming weeks, please visit the corresponding bra
 
 ### Task Branches
 
-- [Week1-Assignment (<code>master<code> branch)](#) - Week 1 Assignment (Basic HTML)
-- [Week2-Assignment](#) - Week 2 Assignment (Basic external styling with CSS)
-- [Week3-Assignment](#) - Week 3 Assignment (Slicing Bootstrap-based interface)
-- [Week4-Assignment](#) - Week 3 Assignment (Creating a calculator using basic Javascript)
+- <code>master</code> - Week 1 Assignment (Basic HTML)
+- <code>tugas-2</code> - Week 2 Assignment (Basic external styling with CSS)
+- <code>tugas-3</code> - Week 3 Assignment (Slicing Bootstrap-based interface)
+- <code>tugas-4</code> - Week 4 Assignment (Creating a calculator using basic Javascript)
 
 ## How to Access
 
 1. **Clone the Repository:**
    
     ```bash
-    git clone https://github.com/your-username/your-repository.git
-    cd your-repository
+    git clone https://github.com/azarelga/Pemrograman_web_i.git
+    cd Pemrograman_web_i
     ```
 
 2. **Choose the Task Branch:**
